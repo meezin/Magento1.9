@@ -10,3 +10,9 @@ Unfortunately, Magento does not use group id as the function of classifying wher
 it used as the function of grouping the tax group based on their billing address. 
 
 What if you don't regard groupID as the standarzation of tax group, Try it use like that. 
+
+
+
+# Final Goal 
+
+https://github.com/meezin/Magento1.9_AssignGroupIDBasedOnCountryID/blob/master/v2EtG.jpg
