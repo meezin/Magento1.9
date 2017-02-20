@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+    <config>
+        <modules>
+        <Meezin_CustomerGrouped>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Meezin_CustomerGrouped>
+        </modules>
+    </config>
