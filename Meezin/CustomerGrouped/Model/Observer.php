@@ -1,4 +1,6 @@
-/*the default setting on my website,
+/*
+
+the default setting on my website,
 |    group                  |   group_id   |
 |  Standard                 |       1      |
 |  international_standard   |      27      |
